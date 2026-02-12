@@ -1,0 +1,2 @@
+##Write a function that finds and replaces all occurrences of a given word in a file named `data.txt` with another word.
+
