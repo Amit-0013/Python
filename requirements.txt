@@ -3,3 +3,4 @@ NumPy
 pandas
 seaborn
 Matplotlib
+bs4
