@@ -29,3 +29,5 @@ if choice:
 date = st.date_input("Select your birthday: ")
 if date:
     st.write("Your birthday : ",date)
+
+
